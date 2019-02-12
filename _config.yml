@@ -16,7 +16,7 @@
 title: Ihor Katkov |> Concurent Ninja
 email: ihorkatkov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  You will find here some usefull stuff around Elixir, concurrent programming
+  You will find here some useful stuff around Elixir, concurrent programming
   and some personal thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://concurrent.ninja" # the base hostname & protocol for your site, e.g. http://example.com
